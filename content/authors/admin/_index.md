@@ -48,12 +48,12 @@ social:
   link: https://twitter.com/PandeySudhendu
 # - icon: google-scholar
 # icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/SudhenduP
- Link to a PDF of your resume/CV from the About widget.
- To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
    link: files/cv.pdf
@@ -67,11 +67,3 @@ email: "pandeysudhendu@gmail.com"
 # - Researchers
 # - Visitors
 ---
-Managed development of complex applications ranging from SOA,ETL, BI and Cloud technologies, database design & process redesigns.
-Hands-on experience with bootstrapping projects from Proof of concept to delivery of solution.
-Amazon Web Services (AWS) Technical Accredited Professional.
-2+ years of Dell Boomi Atomsphere and API experience. Dell Boomi Integration Developer I- AtomSphere Integration Cloud
-certified.
-4+ years of TIBCO BW and SOA experience. TIBCO Certified Professional (TIBCO Enterprise Message Service 6).
-Hands on experience with TIBCO Spotfire dashboard Development and Administration.
-Executive MBA from SJMSOM, IIT Bombay and Bachelor of Technology (Information Technology Engineering) from North Maharashtra University.
