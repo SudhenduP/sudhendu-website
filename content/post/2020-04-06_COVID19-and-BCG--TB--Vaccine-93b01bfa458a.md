@@ -11,7 +11,7 @@ slug: /@PandeySudhendu/covid19-and-bcg-tb-vaccine-93b01bfa458a
 
 > **Whatever doesn’t kill you, makes you stronger, unless it does eventually kill you.**
 
-![BCG Vaccination vs COVID19 Confirmed Cases (per million population)](img\1____9M35oKpHkMusl2oAZ3Yxg.png)
+![BCG Vaccination vs COVID19 Confirmed Cases (per million population)](img\BCG1.png)
 BCG Vaccination vs COVID19 Confirmed Cases (per million population)
 
 If you read through some of the [articles](https://www.google.com/search?q=bcg+covid+19&oq=bcg+cov&aqs=chrome.2.69i57j0l5j69i61l2.7635j0j7&sourceid=chrome&ie=UTF-8), researchers and doctors are **suggesting** a strong correlation between the number of COVID19 cases (confirmed, fatality) vs whether the country does or does not have a nation-wide (or large scale) BCG immunization program.
@@ -47,7 +47,7 @@ Note that though both affect the respiratory system, TB is a bacterial infection
 
 ### The Big Picture
 
-![TreeMap: The size determines the number of cases. The color red: No BCG, Green: BCG](img\1__bA7dvH4E7Q8ktIIsMEn8TA.png)
+![TreeMap: The size determines the number of cases. The color red: No BCG, Green: BCG](img\BCG2.png)
 TreeMap: The size determines the number of cases. The color red: No BCG, Green: BCG
 
 The above representation is [TreeMap](https://en.wikipedia.org/wiki/Treemapping). The bigger the boxes, the more COVID19 cases _per 1 million population_. The color denotes whether there is a national-level BCG vaccination (as of 2018). It is very much evident that all the countries without national level BCG have more cases per 1 million as are on the upper left corner. All the green boxes are small and are tucked right in the lower right corner.
