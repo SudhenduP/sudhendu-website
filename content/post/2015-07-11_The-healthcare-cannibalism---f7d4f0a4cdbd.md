@@ -3,7 +3,7 @@ title: "The healthcare cannibalism\_."
 description: How Indian Healthcare is eating itself .
 date: '2015-07-11T15:39:26.300Z'
 categories: []
-keywords: []
+keywords: [posts]
 slug: /@PandeySudhendu/the-healthcare-cannibalism-f7d4f0a4cdbd
 ---
 
