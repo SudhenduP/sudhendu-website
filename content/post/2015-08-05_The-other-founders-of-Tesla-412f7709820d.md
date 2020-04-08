@@ -13,11 +13,7 @@ slug: /@PandeySudhendu/the-other-founders-of-tesla-412f7709820d
 
 #### Here are few guys who made it happen, in a way.
 
-I like startups. I love difficult startups. Tesla Motors is difficult and hence lovely.
-
-Tesla is now synonym to electric cars. And somehow, it seems Musk is equal to Tesla. It’s kind-of Yin-Yen of tech industry. Somehow Musk has become an indispensable face of electric car. For sake of goodness, we all know that’s untrue.
-
-There are few concerns with glorification of _that_ one man.
+Tesla Motors is one of the startup which is solving a hard problem : self-driving electric cars. And somehow, it seems Musk is equal to Tesla. It’s kind-of Yin-Yen of tech industry. Somehow Musk has become an indispensable face of tesla, self driving and electric car. We know that only as true as marketing goes. He, like everyone else, is standing over the shoulders of other giants.
 
 > The problem with such portrayals is not merely that they are inaccurate and unfair to the many contributors to new technologies. By warping the popular understanding of how technologies develop, great-man myths threaten to undermine the structure that is actually necessary for future innovations. — [Amanda Schaffer](http://www.technologyreview.com/contributor/amanda-schaffer/)
 
@@ -28,7 +24,7 @@ On Great Man myth, a good read:
 [**Putting Elon Musk and Steve Jobs on a Pedestal Misrepresents How Innovation Happens | MIT…**  
 _Since Steve Jobs's death, in 2011, Elon Musk has emerged as the leading celebrity of Silicon Valley. Musk is the CEO of…_www.technologyreview.com](http://www.technologyreview.com/review/539861/techs-enduring-great-man-myth/ "http://www.technologyreview.com/review/539861/techs-enduring-great-man-myth/")[](http://www.technologyreview.com/review/539861/techs-enduring-great-man-myth/)
 
-**E**lon Musk is a revolutionary guy, no doubt (at all). He is one of the pioneer in Silicon Valley (the Paypal guy).
+Elon Musk is a revolutionary guy, no doubt (at all). He is one of the pioneer in Silicon Valley (the Paypal guy).
 
 **N**ewton once said, ‘ If I have seen further it is by standing on the shoulders of giants**’. T**here are many giants out there who probably played equal, less or sometimes more important role in making Tesla Motor happen. And ironically, hardly anybody outside the SV or Venture Capitalist circle knows about them.
 
@@ -84,10 +80,8 @@ This post is about the others. In no particular order.
 
 **Previous** — Director, CISCO. CTO Altamar Network
 
-**Why Tesla** — Neighbour to Martin. Wanted to start Optical subsystem subystem. Got interested in Tesla. Joined.
+**Why Tesla** — Neighbor to Martin. Wanted to start Optical subsystem subsystem. Got interested in Tesla. Joined.
 
-**What else** — Founder at Wrightspeed. Electrifying commerical trucks.
+**What else** — Founder at Wrightspeed. Electrifying commercial trucks.
 
-**R**eferences: _All data taken for either Wikipedia and or LinkedIn. Ironically, few of them don’t have ‘enough’ information about them on the web. Sometimes, not even a wikipedia page………_
-
-_Comments welcomes._
+**R**eferences: _All data taken for either Wikipedia and or LinkedIn. Ironically, few of them don’t have ‘enough’ information about them on the web. 
