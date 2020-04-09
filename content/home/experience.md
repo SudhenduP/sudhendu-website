@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Technology Consultant"
   company = "BCT TIBCO"
-  company_url = ""
+  company_url = "www.bct.com"
   location = "Dubai, UAE"
   date_start = "2018-04-01"
   date_end = ""
