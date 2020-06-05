@@ -33,7 +33,7 @@ subtitle = ""
   description = "80%"
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "40%"
