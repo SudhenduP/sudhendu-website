@@ -68,24 +68,24 @@ email: "pandeysudhendu@gmail.com"
 # - Visitors
 ---
 
-# The interesting part:
+#### The interesting part :
 
-I started my career with TIBCO. I stayed with them for around 3 years where I got massive experience with various TIBCO Products.
-I moved to Deloitte after that, planning to learn something other than TIBCO. Lucky for me, I had opportunity to get my hands dirty with AWS and Dell Boomi.
-After 3 years with Deloitte, BCT TIBCO was my next destination, I work at their Dubai office. Amazing city!
+I started my career with TIBCO. I stayed with them for around three years, where I got extensive experience with various TIBCO Products.
+I moved to Deloitte after that, planning to learn something other than TIBCO. Lucky for me, I had the opportunity to get my hands dirty with AWS and Dell Boomi.
+After three years with Deloitte, BCT TIBCO was my next destination. I work at their Dubai office. Amazing city!
 
-I keep deep interests in complex technology problem, mostly related to intelligence and human cognition.
+I keep a deep interest in complex technological problems, mostly related to intelligence and human cognition.
 
-I am self-thought Python programmer and I create small utilities using Python to help me in day-to-day work! 
-Big fan of Python (have a book signed by the maestro himself)
+I am a self-thought Python programmer, and I create small utilities using Python to help me in day-to-day work! 
+Big fan of Python.
 
-The boring stuff ( can be seen on LinkedIn as well):
+#### The boring stuff :
 
-I worked and managed development of complex applications ranging from SOA,ETL, BI and Cloud technologies, database design & process redesigns.
-Hands-on experience with bootstrapping projects from Proof of concept to delivery of solution.
+I worked and managed the development of complex applications ranging from SOA, ETL, BI and Cloud technologies, database design & process redesigns.
+Hands-on experience with bootstrapping projects from proof of concept to delivery of the solution.
 Amazon Web Services (AWS) Technical Accredited Professional.
 2+ years of Dell Boomi Atomsphere and API experience. Dell Boomi Integration Developer I- AtomSphere Integration Cloud
 certified.
 4+ years of TIBCO BW and SOA experience. TIBCO Certified Professional (TIBCO Enterprise Message Service 6).
-Hands on experience with TIBCO Spotfire dashboard Development and Administration.
-Executive MBA from SJMSOM, IIT Bombay and Bachelor of Technology (Information Technology Engineering) from North Maharashtra University.
+Hands-on experience with TIBCO Spotfire dashboard Development and Administration.
+Executive MBA from SJMSOM, IIT Bombay, and Bachelor of Technology (Information Technology Engineering) from North Maharashtra University.
