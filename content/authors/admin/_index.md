@@ -69,7 +69,7 @@ email: "pandeysudhendu@gmail.com"
 ---
 
 #### The interesting part :
-
+<div style="text-align: justify">
 I started my career with TIBCO. I stayed with them for around three years, where I got extensive experience with various TIBCO Products.
 I moved to Deloitte after that, planning to learn something other than TIBCO. Lucky for me, I had the opportunity to get my hands dirty with AWS and Dell Boomi.
 After three years with Deloitte, BCT TIBCO was my next destination. I work at their Dubai office. Amazing city!
@@ -78,7 +78,7 @@ I keep a deep interest in complex technological problems, mostly related to inte
 
 I am a self-thought Python programmer, and I create small utilities using Python to help me in day-to-day work! 
 Big fan of Python.
-
+</div>
 #### The boring stuff :
 
 I worked and managed the development of complex applications ranging from SOA, ETL, BI and Cloud technologies, database design & process redesigns.
