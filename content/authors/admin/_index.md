@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Consultant with specialization in Integration and Analytics
+role: Software Consultant with specialization in Integration, Data Science and Python Programming
 
 # Organizations/Affiliations
 organizations:
-- name: BCT TIBCO, DUBAI
+- name: Currently with BCT TIBCO, DUBAI
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,7 +68,20 @@ email: "pandeysudhendu@gmail.com"
 # - Visitors
 ---
 
-Managed development of complex applications ranging from SOA,ETL, BI and Cloud technologies, database design & process redesigns.
+The interesting part:
+
+I started my career with TIBCO. I stayed with them for around 3 years where I got massive experience with various TIBCO Products.
+I moved to Deloitte after that, planning to learn something other than TIBCO. Lucky for me, I had opportunity to get my hands dirty with AWS and Dell Boomi.
+After 3 years with Deloitte, BCT TIBCO was my next destination, I work at their Dubai office. Amazing city!
+
+I keep deep interests in complex technology problem, mostly related to intelligence and human cognition.
+
+I am self-thought Python programmer and I create small utilities using Python to help me in day-to-day work! 
+Big fan of Python (have a book signed by the maestro himself)
+
+The boring stuff ( can be seen on LinkedIn as well):
+
+I worked and managed development of complex applications ranging from SOA,ETL, BI and Cloud technologies, database design & process redesigns.
 Hands-on experience with bootstrapping projects from Proof of concept to delivery of solution.
 Amazon Web Services (AWS) Technical Accredited Professional.
 2+ years of Dell Boomi Atomsphere and API experience. Dell Boomi Integration Developer I- AtomSphere Integration Cloud
