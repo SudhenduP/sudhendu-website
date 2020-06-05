@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "Dubai, UAE"
   date_start = "2018-04-01"
   date_end = ""
-  description = """Multiple roles across multiple clients. Primarily responsible for end-to-end deliver of solutions. Primary work
-  involes full time interaction with clients, getting requirements and mobilizing effort"
+  description = """Multiple roles across multiple clients. Primarily responsible for end-to-end deliver of solutions. Primary work"""
+  """involes full time interaction with clients, getting requirements and mobilizing effort"""
   Responsibilities = ""
 
 [[experience]]
