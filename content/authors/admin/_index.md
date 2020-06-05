@@ -78,9 +78,12 @@ I keep a deep interest in complex technological problems, mostly related to inte
 
 I am a self-thought Python programmer, and I create small utilities using Python to help me in day-to-day work! 
 Big fan of Python.
+
 </div>
+
 #### The boring stuff :
 
+<div style="text-align: justify">
 I worked and managed the development of complex applications ranging from SOA, ETL, BI and Cloud technologies, database design & process redesigns.
 Hands-on experience with bootstrapping projects from proof of concept to delivery of the solution.
 Amazon Web Services (AWS) Technical Accredited Professional.
@@ -89,3 +92,5 @@ certified.
 4+ years of TIBCO BW and SOA experience. TIBCO Certified Professional (TIBCO Enterprise Message Service 6).
 Hands-on experience with TIBCO Spotfire dashboard Development and Administration.
 Executive MBA from SJMSOM, IIT Bombay, and Bachelor of Technology (Information Technology Engineering) from North Maharashtra University.
+
+</div>
