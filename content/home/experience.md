@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-04-01"
   date_end = ""
   description = "Multiple roles across multiple clients"
-  Responsibilities include =""
+  Responsibilities = ""
 
 [[experience]]
   title = "Professor"
