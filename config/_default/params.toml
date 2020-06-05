@@ -89,7 +89,7 @@ address = {city = "Dubai", country = "United Arab Emirates", country_code = "AE"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "25.06006", longitude = "55.10301"}
+coordinates = {latitude = "25.112512", longitude = "55.139670"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
