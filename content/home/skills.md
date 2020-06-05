@@ -17,14 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "TIBCO BusinessWorks, EMS and Admin"
+  name = "TIBCO SOA"
   description = "90%"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "TIBCO Spotfire"
-  description = "60%"  
+  description = "70%"  
 
 [[feature]]
   icon = "camera-retro"
@@ -36,6 +36,11 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "40%"
+  description = "50%"
 
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS iPaaS"
+  description = "50%"
 +++
