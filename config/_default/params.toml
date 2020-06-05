@@ -189,7 +189,7 @@ plugins_js  = []
   citation_style = "apa"
 
 # Configuration of project pages.
-[projects]
+#[projects]
   # Views for associated content.
   #   1: List
   #   2: Compact
