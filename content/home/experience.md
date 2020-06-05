@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Dubai, UAE"
   date_start = "2018-04-01"
   date_end = ""
-  description = ""Multiple roles across multiple clients"
+  description = "Multiple roles across multiple clients"
   Responsibilities include:
 
   * End to End implementation of Analytics and Integration Project
