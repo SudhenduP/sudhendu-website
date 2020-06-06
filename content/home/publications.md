@@ -60,3 +60,4 @@ subtitle = ""
    text_color_light = true  
 
 [advanced]
++++
