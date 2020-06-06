@@ -14,8 +14,8 @@ role: Software Consultant with specialization in Integration, Data Science and P
 
 # Organizations/Affiliations
 organizations:
-- name: Currently with BCT TIBCO, DUBAI
-  url: ""
+- name: BCT TIBCO, DUBAI
+  url: "www.bct.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Industry and client experience ranging from Healthcare, Pharma, Finance, Technology & Manufacturing domain.
@@ -72,9 +72,10 @@ email: "pandeysudhendu@gmail.com"
 <div style="text-align: justify">
 
 I am a technology consultant working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 8+ years of expirence with 10+ clients across all industries. 
-I am currently based in Dubai, UAE and I love the city. I am self-taught Python Programmer keeping and keep creating small utlities to make my life easy!
-Check the Git!
+I am currently based in Dubai, UAE and I love the city. I am self-taught Python Programmer and use it to create small utlities to make my life easy!
+Head out to git!
 
-You can check the detail profile below. Alternatively, you can download the CV or contact me and we can chat!
+I enjoy running during my free time. I am an ultra-distance runner and have completed couple of 100k.
+You can check the detailed profile below. Alternatively, you can download the CV or contact me and we can chat!
 
 </div>
