@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Courses&shy;Certifications"
 subtitle = ""
 
 # Date format
@@ -18,34 +18,47 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp"
+  title = "Python for Data Science and Machine Learning Bootcamp"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-7ebdeb52-40b8-48ee-942b-ab79e3bcd5f1/"
+  date_start = "2020-05-17"
+  date_end = ""
+  description = "Hands on with NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more"
+
+
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/4GK6DB6DMEMJ"
+  date_start = "2017-11-06"
   date_end = ""
-  description = ""
+  description = "Deep Learning course specialization instructed by Andrew Ng and team"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "TIBCO"
+  organization_url = "https://www.tibco.com"
+  title = "TIBCO Certified Professional for TIBCO EMS"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-01-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = "Certification for TIBCO Certified Professional for TIBCO Enterprise Message Service™ 6."
+
+
 [[item]]
-  organization = "DataCamp"
+  organization = "CryptoCurrency Certification Consortium (C4)"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Certified Bitcoin Professional"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2018-01-01"
+  date_end = "2020-01-01"
+  description = "A Certified Bitcoin Professional is knowledgeable about the Bitcoin blockchain, Bitcoin transactions, and how the Bitcoin network operates. CBPs are able to apply Bitcoin technology to their professional area of expertise and understand privacy aspects, double-spending, and other issues that relate to the currency."
 
 +++

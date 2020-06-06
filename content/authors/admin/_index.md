@@ -20,6 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Industry and client experience ranging from Healthcare, Pharma, Finance, Technology & Manufacturing domain.
 
+expertise:
+- TIBCO
+- Dell Boomi
+- AWS iPaaS
+- Data Science
+- Python
+
+
 interests:
 - Artificial Intelligence
 - Computational Linguistics
@@ -72,11 +80,11 @@ email: "pandeysudhendu@gmail.com"
 <div style="text-align: justify">
 
 I am a technology consultant working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 8+ years of expirence with 10+ clients across all industries. 
-I am currently based in Dubai, UAE and I love the city. I am self-taught Python Programmer and use it to create small utlities to make my life easy!
-Head out to git!
+I am currently based in Dubai, UAE and in love with the city. I am self-taught Python programmer and use it to create small utlities to make my life easy!
+Head over to Git!
 
 I enjoy running during my free time. I am an ultra-distance runner and have completed couple of 100k.
 
-You can check the detailed profile below. Alternatively, you can download the CV or contact me and we can chat!
+You can check the detailed profile below. Alternatively, you can download the CV, contact me and we can chat!
 
 </div>
