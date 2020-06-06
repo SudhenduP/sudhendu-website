@@ -68,29 +68,13 @@ email: "pandeysudhendu@gmail.com"
 # - Visitors
 ---
 
-#### The interesting part :
+#### About me:
 <div style="text-align: justify">
-I started my career with TIBCO. I stayed with them for around three years, where I got extensive experience with various TIBCO Products.
-I moved to Deloitte after that, planning to learn something other than TIBCO. Lucky for me, I had the opportunity to get my hands dirty with AWS and Dell Boomi.
-After three years with Deloitte, BCT TIBCO was my next destination. I work at their Dubai office. Amazing city!
 
-I keep a deep interest in complex technological problems, mostly related to intelligence and human cognition.
+I am a technology consultant working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 8+ years of expirence with 10+ clients across all industries. 
+I am currently based in Dubai, UAE and I love the city. I am self-taught Python Programmer keeping and keep creating small utlities to make my life easy!
+Check the Git!
 
-I am a self-thought Python programmer, and I create small utilities using Python to help me in day-to-day work! 
-Big fan of Python.
-
-</div>
-
-#### The boring stuff :
-
-<div style="text-align: justify">
-I worked and managed the development of complex applications ranging from SOA, ETL, BI and Cloud technologies, database design & process redesigns.
-Hands-on experience with bootstrapping projects from proof of concept to delivery of the solution.
-Amazon Web Services (AWS) Technical Accredited Professional.
-2+ years of Dell Boomi Atomsphere and API experience. Dell Boomi Integration Developer I- AtomSphere Integration Cloud
-certified.
-4+ years of TIBCO BW and SOA experience. TIBCO Certified Professional (TIBCO Enterprise Message Service 6).
-Hands-on experience with TIBCO Spotfire dashboard Development and Administration.
-Executive MBA from SJMSOM, IIT Bombay, and Bachelor of Technology (Information Technology Engineering) from North Maharashtra University.
+You can check the detail profile below. Alternatively, you can download the CV or contact me and we can chat!
 
 </div>
