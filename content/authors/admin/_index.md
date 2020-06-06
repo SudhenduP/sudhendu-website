@@ -15,7 +15,7 @@ role: Software Consultant with specialization in Integration, Data Science and P
 # Organizations/Affiliations
 organizations:
 - name: BCT TIBCO, DUBAI
-  url: "www.bct.com"
+  url: "https://www.bahwancybertek.com/#/services/tibco-services"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Industry and client experience ranging from Healthcare, Pharma, Finance, Technology & Manufacturing domain.
@@ -76,6 +76,7 @@ I am currently based in Dubai, UAE and I love the city. I am self-taught Python 
 Head out to git!
 
 I enjoy running during my free time. I am an ultra-distance runner and have completed couple of 100k.
+
 You can check the detailed profile below. Alternatively, you can download the CV or contact me and we can chat!
 
 </div>

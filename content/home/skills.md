@@ -18,29 +18,35 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "TIBCO SOA"
-  description = "90%"
+  #description = "90%"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "TIBCO Spotfire"
-  description = "70%"  
+  #description = "70%"  
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Dell Boomi"
-  description = "80%"
+  #description = "80%"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "50%"
+  #description = "50%"
 
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
   name = "AWS iPaaS"
-  description = "50%"
+  #description = "50%"
+  
+ [[feature]]
+  icon = "microscope"
+  icon_pack = "fab"
+  name = "Data Science"
+  #description = "50%"
 +++
