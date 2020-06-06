@@ -16,7 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "The definition of ~~insanity~~ success is doing the same thing over and over again, ~~but expecting~~ and stumbling to a different results "
+  #title = "The definition of ~~insanity~~ success is doing the same thing over and over again, ~~but expecting~~ and stumbling to a different results "
+  title = "My name is Sudhendu :smile:, How are you?"
   #content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
