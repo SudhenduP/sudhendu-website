@@ -83,8 +83,9 @@ I am a technology consultant working majorly with TIBCO, Data-Science, Dell Boom
 I am currently based in Dubai, UAE and in love with the city. I am self-taught Python programmer and use it to create small utlities to make my life easy!
 Head over to Git!
 
-I enjoy running during my free time. I am an ultra-distance runner and have completed couple of 100k.
+I enjoy running during my free time. I am an ultra-distance runner and have completed couple of 100k :laugh:.
 
-You can check the detailed profile below. Alternatively, you can download the CV, contact me and we can chat!
+
+
 
 </div>
