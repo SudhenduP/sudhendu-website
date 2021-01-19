@@ -24,11 +24,8 @@ date_format = "Jan 2006"
   location = "Dubai, UAE"
   date_start = "2018-04-01"
   date_end = ""
-  description = "As part of the onsite consultant and architect team, I worked with four different clients in the region in the last three years. Most notably, single handlely created the an entire TIBCO CICD framework for a client. This automation helped the client to save 90% cost on their DevOps time and resource. I have also worked with organizations to jump-start their analytics journey."
-  Projects = "•	Educational Data Analytics Project
-•	Centralized Advanced Analytics dashboard
-•	TIBCO Automation CICD
-"
+  description = "As part of the onsite consultant and architect team, I worked with four different clients in the region in the last three years. Most notably, single handlely created the an entire TIBCO CICD framework for a client. This automation helped the client to save 90% cost on their DevOps time and resource. I have also worked with organizations to jump-start their analytics journey.
+  Educational Data Analytics Project, Centralized Advanced Analytics dashboard, TIBCO Automation CICD"
 
 [[experience]]
   title = "Consultant"
