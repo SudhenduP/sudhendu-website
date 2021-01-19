@@ -24,8 +24,11 @@ date_format = "Jan 2006"
   location = "Dubai, UAE"
   date_start = "2018-04-01"
   date_end = ""
-  description = "Multiple roles across multiple clients. Primarily responsible for end-to-end deliver of solutions. Primary work involes full time interaction with clients, getting requirements and mobilizing effort"
-  Responsibilities = ""
+  description = "As part of the onsite consultant and architect team, I worked with four different clients in the region in the last three years. Most notably, single handlely created the an entire TIBCO CICD framework for a client. This automation helped the client to save 90% cost on their DevOps time and resource. I have also worked with organizations to jump-start their analytics journey."
+  Projects = "•	Educational Data Analytics Project
+•	Centralized Advanced Analytics dashboard
+•	TIBCO Automation CICD
+"
 
 [[experience]]
   title = "Consultant"
