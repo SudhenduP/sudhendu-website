@@ -26,12 +26,15 @@ expertise:
 - AWS iPaaS
 - Data Science
 - Python
+- Data Analysis
 
 
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
+- Evolutionary Biology
+
 
 education:
   courses:
@@ -79,15 +82,13 @@ email: "pandeysudhendu@gmail.com"
 #### About me:
 <div style="text-align: justify">
 
-I am a technology consultant working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 8+ years of expirence with 10+ clients across multiple industries and geography. 
+I am a technology consultant working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 10+ years of expirence with 16+ clients across multiple industries and geography. 
 I am currently based in Dubai, UAE and in love with the city. I am self-taught Python programmer and use it to create small utlities to make my life easy!
 Head over to Git!
 
 I enjoy running during my free time. I am an ultra-distance runner and have completed couple of 100k.
 
 Thank you for stopping by!
-
-
 
 
 </div>
