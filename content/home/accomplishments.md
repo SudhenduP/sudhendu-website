@@ -61,4 +61,14 @@ date_format = "Jan 2006"
   date_end = "2020-01-01"
   description = "A Certified Bitcoin Professional is knowledgeable about the Bitcoin blockchain, Bitcoin transactions, and how the Bitcoin network operates. CBPs are able to apply Bitcoin technology to their professional area of expertise and understand privacy aspects, double-spending, and other issues that relate to the currency."
 
+[[item]]
+  organization = "TIBCO"
+  organization_url = "https://www.credly.com/organizations/tibco-software-inc/badges"
+  title = "TIBCO Associate and Professional Certificate"
+  url = ""
+  certificate_url = "https://www.credly.com/users/sudhendu-pandey.d1a2d3ec/badges"
+  date_start = ""
+  date_end = ""
+  description = "TIBCO Certified Associate - TIBCO Cloud™ | TIBCO Mashery | TIBCO Streaming | TIBCO BusinessWorks 6. TIBCO Certified Associate and Professional – TIBCO Spotfire 10.x"
+
 +++

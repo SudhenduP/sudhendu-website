@@ -44,5 +44,9 @@ subtitle = ""
   name = "Cloud Services"
   #description = "50%"
   
-
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Services"
+  #description = "50%"
 +++
