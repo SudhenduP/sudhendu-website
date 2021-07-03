@@ -15,38 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "TIBCO SOA"
+  icon = "link"
+  icon_pack = "fas"
+  name = "Integration"
   #description = "90%"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "TIBCO Spotfire"
+  name = "Analytics"
   #description = "70%"  
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Dell Boomi"
+  name = "Data Science"
   #description = "80%"
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Microservices"
   #description = "50%"
 
 [[feature]]
-  icon = "aws"
-  icon_pack = "fab"
-  name = "AWS iPaaS"
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Services"
   #description = "50%"
   
- [[feature]]
-  icon = "microscope"
-  icon_pack = "fab"
-  name = "Data Science"
-  #description = "50%"
+
 +++
