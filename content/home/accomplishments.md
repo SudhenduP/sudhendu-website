@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   title = "TIBCO Associate and Professional Certificate"
   url = ""
   certificate_url = "https://www.credly.com/users/sudhendu-pandey.d1a2d3ec/badges"
-  date_start = ""
+  date_start = "2021-05-01"
   date_end = ""
   description = "TIBCO Certified Associate - TIBCO Cloud | TIBCO Mashery | TIBCO Streaming | TIBCO BusinessWorks 6. TIBCO Certified Associate and Professional – TIBCO Spotfire 10.x"
 
