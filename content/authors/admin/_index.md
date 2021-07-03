@@ -14,8 +14,8 @@ role: Software Consultant with specialization in Integration, Analytics and Data
 
 # Organizations/Affiliations
 organizations:
-- name: BCT TIBCO, DUBAI
-  url: "https://www.bahwancybertek.com/#/services/tibco-services"
+- name: BAHWAN CYBERTEK, DELOITTE, TIBCO
+  url: "https://www.linkedin.com/in/sudhendup/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Industry and client experience ranging from Healthcare, Pharma, Finance, Technology & Manufacturing domain.
