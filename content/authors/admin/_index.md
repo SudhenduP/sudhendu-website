@@ -14,9 +14,7 @@ role: Software Consultant with specialization in Integration, Analytics and Data
 
 # Organizations/Affiliations
 organizations:
-- name: BAHWAN CYBERTEK,
- DELOITTE, 
- TIBCO
+- name: Bahwan Cybertek, Deloitte Consulting, TIBCO.
   url: "https://www.linkedin.com/in/sudhendup/"
 
 # Short bio (displayed in user profile at end of posts)
