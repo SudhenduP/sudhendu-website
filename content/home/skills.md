@@ -45,8 +45,8 @@ subtitle = ""
   #description = "50%"
   
 [[feature]]
-  icon = "cloud"
+  icon = "people-carry"
   icon_pack = "fas"
-  name = "Cloud Services"
+  name = "People Skills"
   #description = "50%"
 +++
