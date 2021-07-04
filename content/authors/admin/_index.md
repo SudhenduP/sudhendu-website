@@ -86,8 +86,7 @@ Hello! I am a technology consultant working majorly with TIBCO, Data-Science, De
 I am currently based in Dubai, UAE and in love with the city. I am self-taught Python programmer and use it to create small utlities to make my life easy!
 Head over to Git!
 
-I am big fan of Professor Noam Chomsky. I keep huge interest in complex systems. I enjoy reading and running during my free time. I am an ultra-distance runner and have completed couple of 100k.
-Either see me runnnig or see me petting some stray cat or dog! 
+I am big fan of Professor Noam Chomsky and keep keen interest in complex systems. I enjoy reading and running during my free time. I am an ultra-distance runner and have completed couple of 100k.
 
 Thank you for stopping by! Peace out!
 </div>
