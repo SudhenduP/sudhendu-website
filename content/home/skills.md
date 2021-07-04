@@ -47,6 +47,6 @@ subtitle = ""
 [[feature]]
   icon = "people-carry"
   icon_pack = "fas"
-  name = "People Skills"
+  name = "Team Skills"
   #description = "50%"
 +++
