@@ -68,6 +68,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pandeysudhendu@gmail.com"
@@ -86,7 +87,8 @@ Hello! I am a technology consultant working majorly with TIBCO, Data-Science, De
 I am currently based in Dubai, UAE and in love with the city. I am self-taught Python programmer and use it to create small utlities to make my life easy!
 Head over to Git!
 
-I am big fan of Professor Noam Chomsky, bing watched all his vidoes :) I also keep keen interest in complex systems. I enjoy reading and running during my free time. I am an ultra-distance runner and have completed couple of 100k.
+I am big fan of Professor Noam Chomsky, specially the theory of [Cosmic Countinity](https://www.youtube.com/watch?v=0ozZdrFQfTU)
+ ! I also keep keen interest in complex systems. I enjoy reading and running during my free time. I am an ultra-distance runner and have completed couple of 100k.
 
 Thank you for stopping by! Peace out!
 </div>
