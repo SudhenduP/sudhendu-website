@@ -32,10 +32,10 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
  [[main]]
-    name = "Resume Detailed"
+    name = "Resume Concise"
 	url = "files/Sudhendu_Pandey_Resume.pdf"
     weight = 70
  [[main]]
-    name = "Resume Short"
+    name = "Resume Detailed"
 	url = "files/Sudhendu_Pandey_Resume-Detailed.pdf"
     weight = 70
