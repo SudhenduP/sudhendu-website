@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Consultant with specialization in Integration, Analytics and Data Science
+role: Software Solution Architect with specialization in Integration, Analytics and Data Science
 
 # Organizations/Affiliations
 organizations:
