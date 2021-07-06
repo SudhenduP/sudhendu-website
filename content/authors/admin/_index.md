@@ -85,7 +85,7 @@ email: "pandeysudhendu@gmail.com"
 
 Hello! I am a technology consultant working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 10+ years of expirence with 16+ clients across multiple industries and geography. 
 I am currently based in Dubai, UAE and in love with the city. I am self-taught Python programmer and use it to create small utlities to make my life easy!
-Head over to Git!
+Head over to [GitHub](https://github.com/SudhenduP)!
 
 I am big fan of Professor Noam Chomsky, specially the theory of [Cosmic Countinity](https://www.youtube.com/watch?v=0ozZdrFQfTU)
  ! I also keep keen interest in complex systems. I enjoy reading and running during my free time. I am an ultra-distance runner and have completed couple of 100k.
