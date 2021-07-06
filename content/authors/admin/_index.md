@@ -30,9 +30,9 @@ expertise:
 
 
 interests:
+- Complex System
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
 - Evolutionary Biology
 
 
