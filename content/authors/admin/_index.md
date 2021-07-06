@@ -83,7 +83,7 @@ email: "pandeysudhendu@gmail.com"
 #### About me:
 <div style="text-align: justify">
 
-Hello! I am a technology consultant working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 10+ years of expirence with 16+ clients across multiple industries and geography. 
+Hello! I am a technology solution architect working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 10+ years of expirence with 16+ clients across multiple industries and geography. 
 I am currently based in Dubai, UAE and in love with the city. I am self-taught Python programmer and use it to create small utlities to make my life easy!
 Head over to [GitHub](https://github.com/SudhenduP)!
 
