@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Principal Architect"
+  company = "Apisero"
+  company_url = "www.apisero.com"
+  location = "Dubai, UAE"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = "Apisero has seen huge success in last few years. I now have the opportunity to help work with the organisation in the middle-east and Africa market. I am currently focused on Snowflake Data Cloud."
+
+[[experience]]
   title = "Senior Technology Consultant"
   company = "BCT TIBCO"
   company_url = "www.bct.com"
   location = "Dubai, UAE"
   date_start = "2018-04-01"
-  date_end = ""
+  date_end = "2021-10-01"
   description = "As part of the onsite consultant and architect team, I worked with four different clients in the region in the last three years. Most notably, single handlely created the an entire TIBCO CICD framework for a client. This automation helped the client to save 90% cost on their DevOps time and resource. I have also worked with organizations to jump-start their analytics journey. Some projects includes: Educational Data Analytics Project, Centralized Advanced Analytics dashboard, TIBCO Automation CICD"
 
 [[experience]]
