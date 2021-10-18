@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Solution Architect with specialization in Integration, Analytics and Data Science
+role: Principal Architect at Apisero Analytics
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ expertise:
 - AWS iPaaS
 - Data Science
 - Python
-- Data Analysis
+- Cloud Data 
 
 
 interests:
@@ -83,7 +83,7 @@ email: "pandeysudhendu@gmail.com"
 #### About me:
 <div style="text-align: justify">
 
-Hello! I am a technology solution architect working majorly with TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 10+ years of expirence with 16+ clients across multiple industries and geography. 
+Hello! I am a technology architect working on Snowflake Data Cloud. Previous to this, I have worked with mutliple organisation with experience spanning across TIBCO, Data-Science, Dell Boomi and AWS Stack. I have 10+ years of expirence with 16+ clients across multiple industries and geography. 
 I am currently based in Dubai, UAE and in love with the city. I am self-taught Python programmer and use it to create small utlities to make my life easy!
 Head over to [GitHub](https://github.com/SudhenduP)!
 
